@@ -1,0 +1,18 @@
+<li><a href="<?=path?>"><?=$lang['header']['home']?></a></li>
+						<li><a href="<?=path?>/cuisines.php"><?=$lang['header']['explore']?></a></li>
+						<li><a href="<?=path?>/restaurants.php"><?=$lang['header']['restaurants']?></a></li>
+						<li><a href="<?=path?>/pages.php?id=1&t=about"><?=$lang['header']['about']?></a></li>
+						<li><a href="<?=path?>/pages.php?id=2&t=contact"><?=$lang['header']['contact']?></a></li>
+						<li><a href="<?=path?>/plans.php"><?=$lang['header']['plans']?></a></li>
+
+
+
+
+<ul class="pt-drop">
+								<li><a href="<?=path?>"><?=$lang['header']['home']?></a></li>
+								<li><a href="<?=path?>/cuisines.php"><?=$lang['header']['explore']?></a></li>
+								<li><a href="<?=path?>/restaurants.php"><?=$lang['header']['restaurants']?></a></li>
+								<li><a href="<?=path?>/pages.php?id=1&t=about"><?=$lang['header']['about']?></a></li>
+								<li><a href="<?=path?>/pages.php?id=2&t=contact"><?=$lang['header']['contact']?></a></li>
+								<li><a href="<?=path?>/plans.php"><?=$lang['header']['plans']?></a></li>
+							</ul>
